@@ -9,11 +9,11 @@ Este mantemimiento que se realiza cada 31 de agosto, lo que permite es mantener 
 
 1. Realizar respaldo con ayuda del SOS
 
-    ![WinCaja Sos](./Sos.Wincaja.png)
+    ![WinCaja Sos](./img/Sos.Wincaja.png)
 
 2. Cambiaremos el nombre del respaldo por [ NombreRespaldo ] _ [ YYYYMM ].BAK.RAR
 3. Entrar en WinCaja -> Procesos Especiales -> Cierres.
-    ![WinCaja Cierres](./Sos.Wincaja.Cierres.png)
+    ![WinCaja Cierres](./img/Sos.Wincaja.Cierres.png)
     - El cierre es por periodo 
     - Marcar todo excepto temas de facturación
     - Si ay cajas abilitadas en la tabla Cajas desabilitarlas
@@ -51,9 +51,9 @@ Este mantemimiento que se realiza cada 31 de agosto, lo que permite es mantener 
         -  [NombreOriginal]_[YYYYMM]_LOG
   
 6. Reducir el Log y la Base de Datos del respaldo
-    ![WinCaja Cierres](./Reducir.DB.png)
+    ![WinCaja Cierres](./img/Reducir.DB.png)
     1. Seleccionar la Base de datos
     2. Click derecho
     3. Tareas -> Reducir -> Base de Datos
-    ![WinCaja Cierres](./Reducir.DB.2.png)
+    ![WinCaja Cierres](./img/Reducir.DB.2.png)
 
