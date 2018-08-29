@@ -51,9 +51,9 @@ Este mantemimiento que se realiza cada 31 de agosto, lo que permite es mantener 
         -  [NombreOriginal]_[YYYYMM]_LOG
   
 6. Reducir el Log y la Base de Datos del respaldo
-    ![WinCaja Cierres](./img/Reducir.DB.png)
     1. Seleccionar la Base de datos
     2. Click derecho
     3. Tareas -> Reducir -> Base de Datos
+    ![WinCaja Cierres](./img/Reducir.DB.png)
     ![WinCaja Cierres](./img/Reducir.DB.2.png)
 
